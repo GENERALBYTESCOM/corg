@@ -1,0 +1,4 @@
+rootProject.name = 'corg'
+include 'calc'
+rootProject.name = 'corg'
+
